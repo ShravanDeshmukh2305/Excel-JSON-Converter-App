@@ -1,4 +1,4 @@
-![Screenshot (1238)](https://github.com/user-attachments/assets/75c454a5-57ef-490a-9b5d-fdbc865b77a5)
+![Excel-JSON Converter App](https://github.com/user-attachments/assets/abce6962-7e8d-4ec9-bcaf-2d7454f3946d)
 
 📂 Upload an Excel file and convert it to JSON.
 
